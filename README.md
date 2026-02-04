@@ -22,9 +22,12 @@ The "banana" thickness and depth are not static. This toolbox uses the following
    ```matlab
    install_fnirs_toolbox
 
-📂 Project Structure
+## 📂 Project Structure
 - `fNIRS_3D_Toolbox.m`: Core rendering engine.
 
 - `install_fnirs_toolbox.m`: Utility to fetch standard brain meshes.
 
 - `run_fNIRS_example.m`: A single-file demonstration script.
+
+## Example
+<img width="2230" height="1898" alt="image" src="https://github.com/user-attachments/assets/083bed56-bdca-449d-b947-2592e2de90b8" />
